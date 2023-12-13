@@ -1,2 +1,2 @@
-variable1: default-value1
-variable2: default-value2
+variable1: poc-client-default-value1
+variable2: poc-client-default-value2
