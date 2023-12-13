@@ -1,2 +1,2 @@
-variable1: prod-value1
-variable2: prod-value2
+variable1: poc-client-prod-value1
+variable2: poc-client-prod-value2
